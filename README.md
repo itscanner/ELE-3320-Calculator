@@ -1,6 +1,6 @@
 # DSP Grade Calculator
 
-This is a calculator for calculating your grade in ELE-3320. It stores the data 
+This is a calculator for calculating your grade in ELE-3320.
 
 ## Features
 
