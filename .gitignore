@@ -3,3 +3,6 @@ __pycache__/
 
 # Ignore .python-version files
 .python-version
+
+#ignore grades.json
+grades.json
